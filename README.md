@@ -18,7 +18,7 @@ Hunting DCs:
 | ------------------------------------------------- | ----- |
 | Hunters becomes separated from the party          | 1-5   | 
 | Enough food for a single meal for a single person | 6-10  |
-| Enough food for a single mean for three people    | 11-20 |
+| Enough food for a single meal for three people    | 11-20 |
 | Enough food for the entire party                  | 21+   |
 
 Eating humanoids will incur madness penalties.
@@ -57,7 +57,7 @@ To help the party overcome the single point of failure caused by this rule,
 anyone who helps on the roll will provide advantage to the roller. If the roller
 succeeds the helper will receive inspiration.
 
-In addition to the normal inspiration rules on page of the Player's Handbook,
+In addition to the normal inspiration rules on page 125 of the Player's Handbook,
 inspiration can be used to guarantee the success of an attack roll. Inspiration
 expires at the end of the session following the one where it was received.
 
