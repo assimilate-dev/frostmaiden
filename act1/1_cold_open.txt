@@ -146,9 +146,6 @@ outdoor shop that looks to be abandoned. A sign hangs from the board and sways
 with a powerful gust. The sign is painted black and embellished with a golden
 lion. It reads "Torg's Trading Caravan, Be Back Soon!"
 
-##If the characters investigate the board, it has rewards posted for the
-##Termalaine and Lonelywood quests as well as a schedule for Torg's caravan.
-
 The warm air inside the inn blows out to greet you as the door to The Luskan
 Arms swings wide. You're practically buzzing on the overwhelming comfort of
 warmth as you stomp the snow off of your boots on a stone mat near the door. The
