@@ -1,3 +1,7 @@
+# Cold Open
+
+## Icewind Dale
+
 North of the Spine of the World and west of the Reghed Glacier is a frigid
 expanse known as Icewind Dale. Far north of the nearest city, Luskan, and
 accessible only by a mountain pass known as the Ten Trails, the Dale sits inside
@@ -38,7 +42,7 @@ but it is cumbersome and impsoses a -1 to any Dexterity check or saving throw
 while wearing it. They are designed to be removed quickly if needed, taking one
 action, but you need to choose which is more dangerous, the cold or your enemy.
 
-Enter Fastbatch and Jim.
+## Targos
 
 You've been trudging through the snow on foot for two hours downhill along the
 road between Bryn Shander and Targos. You heavy winter clothing irrates your
@@ -108,6 +112,8 @@ better. When thick ice covers the lakes, many fishers stay to the shelters of
 their homes and hearths, but the modt dedicated or desparate cut holes in the
 ice and dangle their lines down in hopes of tempting trout.
 
+## The Murders
+
 You've been instructed by Speaker Duvessa Shane to meet a sturdy dwarf named
 Thoval at The Luskan Arms along the winding shore of the maer in Targos. You're
 going to need some muscle for the job. Both of you have been deputized by
@@ -145,9 +151,6 @@ to rattle and nearby a heavy canvas slaps the top of a flat board - some kind of
 outdoor shop that looks to be abandoned. A sign hangs from the board and sways
 with a powerful gust. The sign is painted black and embellished with a golden
 lion. It reads "Torg's Trading Caravan, Be Back Soon!"
-
-##If the characters investigate the board, it has rewards posted for the
-##Termalaine and Lonelywood quests as well as a schedule for Torg's caravan.
 
 The warm air inside the inn blows out to greet you as the door to The Luskan
 Arms swings wide. You're practically buzzing on the overwhelming comfort of
