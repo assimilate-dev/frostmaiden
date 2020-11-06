@@ -33,10 +33,11 @@ ability or spell such as
 
 Characters will roll a DC 10 CON save to avoid one level of exhaustion while
 exposed to the cold:
-	- after the conclusion of combat
-	- after each hour during normal weather conditions
-	- after each half-hour during blizzard conditions
-	- after each minute while submerged in freezing water
+
+  - after the conclusion of combat
+  - after each hour during normal weather conditions
+  - after each half-hour during blizzard conditions
+  - after each minute while submerged in freezing water
 
 Characters will roll a DC 10 CON save to avoid one level of exhaustion every
 four hours while traveling off-road and ever four hours after concluding
