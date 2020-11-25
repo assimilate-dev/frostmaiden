@@ -6,6 +6,14 @@ that many of these rules will eventually become moot as the characters learn
 magical spells such as Leomund's Tiny Hut and Goodberry that assist with food
 and rest.
 
+## Light
+
+It is considered dark outside of the hours of 10AM to 2PM which provide dim
+light. Checks based on sight and attack rolls are hampered by dim light and
+darkness.
+
+A torch will burn for a single hour.
+
 ## Finding food
 
 Plant food is nearly impossible to find in the tundra. If characters need food
