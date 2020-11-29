@@ -1,7 +1,7 @@
 # Resource tracker
 
 Last updated 2020-11-23 after
-[Session 3](https://github.com/assimilate-dev/frostmaiden/blob/main/act1/session_notes/s02_2020-11-23.md)
+[Session 3](https://github.com/assimilate-dev/frostmaiden/blob/main/act1/session_notes/s03_2020-11-23.md)
 
 | Character     | GP  | SP  | Rations | Torches | Inspiration |
 | ------------- | --- | --- | ------- | ------- | ----------- |
