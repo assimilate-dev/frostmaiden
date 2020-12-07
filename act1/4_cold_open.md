@@ -9,12 +9,19 @@ to discourage raiders. Later came the stone caste of Caer-Konig. Alas, neither
 the palisade now the castle fared well; bother fell to orcs before falling to
 ruin.
 
+Caer Konig's heraldry is a white fish silhouette rising from the center bottom
+of a dark blue field which has a white border on all sides except the bottom.
+When you were coming in to town you noticed a frozen pile of knucklehead trout
+stacked outside. Caer Konig's sacrifice to the frostmaiden is food. Much of it
+had been picked at and carrier away by crag cats.
+
 Caer Konig as it is known today consists of terraced rows of houses that recede
-from the shore of Lac Dinneshire like the tiers of an amphitheater. The harbor
-is frozen, it's docks skewed and broken by the shifting ice. Buried under the
-snow on the slops above the last row of houses are the ruins of the caer that
-gave the town its name - a reminder to the people of Caer Konig that nothing
-lasts forever in this corner of the world.
+from the shore of Lac Dinneshire like the tiers of an amphitheater. It doesn't
+take much to house the settlements 150 residents. The harbor is frozen, it's
+docks skewed and broken by the shifting ice. Buried under the snow on the slops
+above the last row of houses are the ruins of the caer that gave the town its
+name - a reminder to the people of Caer Konig that nothing lasts forever in this
+corner of the world.
 
 Travel to and from this remote town was expedited by the ferry that ran out of
 Easthaven, but with the ferry shut down, Caer Konig is completely cut off by
