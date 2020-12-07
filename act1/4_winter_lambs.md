@@ -1,5 +1,17 @@
 # Winter Lambs
 
+## Last Session
+
+During the last session you tussled with some of Thoval's goliath cousins. You
+braved the slopes of Kelvin's Cairn, survived an avalanche, fought off crag
+cats, and rescused Garret; the only witness to Osgood Dickens' murder. Two of
+you followed mysterious footsteps and stumbled upon a fortress jutting out of
+the northwestern side of the cairn. You received a crossbow bolt to the leg for
+your troubles. Someone didn't want you there.
+
+Eventually you returned to a nearby settlement to rest and plot the arrest of
+the murderer who travels with Torg's caravan.
+
 ## Caer Konig
 
 The white, snow-covered slopes of Kelvin's Cairn loom large behind the quiet
@@ -34,7 +46,7 @@ the intruders except dwarven boot tracks in the snow leading north. The town
 speaker, a heavy-drinking dragonborn name Torvus, patrols at night to keep an
 eye out for trouble. He met you as you came into town and informed you that so
 far the thieves have stolen a pair of goats, a small sack of pearls from the
-stores of Frozenfar Expeditions, and a color-switching lantern, taken from the
+stores of Frozenfar Expeditions, and a color-switching lantern taken from the
 local inn The Northern Light.
 
 ## Torg's Caravan
