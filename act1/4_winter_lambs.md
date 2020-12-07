@@ -59,6 +59,8 @@ off. The caracan is known for its emblem: a gold wolf's paw on a black field. It
 should be easy to find when it's in town as Torg sets up outdoors in
 semi-permanent structures.
 
+![Dog Sled](https://tce-live2.s3.amazonaws.com/media/media/1779322a-17c2-46ee-8b68-ba0a2c7bb9a0.jpg)
+
 Torg's is a blessing to most in Icewind Dale during this time. She sells wine,
 cheap ale, medicines, tinctures, and even vials of poison... for killing
 rodents. Even basic supplies are difficult to come by because of Auril's curse
