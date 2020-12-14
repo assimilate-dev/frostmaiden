@@ -1,13 +1,13 @@
 # Resource tracker
 
-Last updated 2020-11-23 after
-[Session 3](https://github.com/assimilate-dev/frostmaiden/blob/main/act1/session_notes/s03_2020-11-23.md)
+Last updated 2020-12-07 after
+[Session 4](https://github.com/assimilate-dev/frostmaiden/blob/main/act1/session_notes/s04_2020-12-07.md)
 
 | Character     | GP  | SP  | Rations | Torches | Inspiration |
 | ------------- | --- | --- | ------- | ------- | ----------- |
-| **Yzma**      | 14  | 0   | 7       | 0       |             |
-| **Jim**       | 22  | 0   | 7       | 7       |             |
-| **Fastbatch** | 10  | 1   | 8       | 10      |             |
-| **Titus**     | 15  | 0   | 6       | 9       |             |
-| **Neville**   | 10  | 0   | 2       | 0       |             |
-| **Thoval**    | 20  | 0   | 6       | 7       |             |
+| **Yzma**      | 8   | 2   | 17      | 0       |             |
+| **Jim**       | 17  | 0   | 17      | 7       |             |
+| **Fastbatch** | 5   | 1   | 18      | 10      |             |
+| **Titus**     | 3   | 5   | 18      | 9       | X           |
+| **Neville**   | 5   | 5   | 12      | 0       |             |
+| **Thoval**    | 16  | 0   | 16      | 7       |             |
