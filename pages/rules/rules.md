@@ -1,5 +1,3 @@
-# House Rules
-
 Some of these are house rules specific to my table and the campaign setting.
 Others are just an emphasis or clarification on existing rules. It is assumed
 that many of these rules will eventually become moot as the characters learn
@@ -83,4 +81,4 @@ outcome is determined by a roll-off, a tie means that nothing changes.
 
 
 
-_Image Credit The Abbey in the Oakwood (1809-10), a painting by Caspar David Friedrich._
+_Image Credit The Abbey in the Oakwood (1809-10), a painting by Caspar David Friedrich_
