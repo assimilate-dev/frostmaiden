@@ -1,3 +1,5 @@
+Last updated: 2020-12-28
+
 ## Overview
 
 Wyrmdoom Crag is home to the Thuunlakalaga clan of Goliaths. The crag is nested inside the immense, jagged peaks of the Spine of the World. These proud people felled an ancient white dragon to claim their ancestral home. It's skeletal remains still lie in the crag as a testament to their triumph. Their chieftain is Ogalai Orcsplitter Thuunlakalaga. Her axe haft made from a dragon's bone.
