@@ -1,5 +1,5 @@
-Last updated 2020-12-28 after
-[Session 6](https://frostmaiden.assimilate.dev/session-six-notes/)
+Last updated 2020-01-25 after
+[Session 7](https://frostmaiden.assimilate.dev/session-seven-notes/)
 
 | Character     | GP  | SP  | Rations | Torches | Inspiration |
 | ------------- | --- | --- | ------- | ------- | ----------- |
