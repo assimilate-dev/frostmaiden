@@ -1,10 +1,27 @@
-Last updated: 2020-12-28
+Last updated: 2020-02-02
 
 ## The Knights of the Black Sword
 
 The Knights are an organization headquartered in the castle at Caer Dineval.
 They are all lost souls saved by a higher power who study devils using the Dinev
 library. They speak directly with Levistus.
+
+Each has a story where they would have perished in the wilderness has a great
+power not intervened. All stories are the same: they were reached out to in
+their minds as they were freezing to death. The disembodied voice offered a
+second chance at life in exchange for their devotion. Shortly after, a pale glow
+caught their eye in the snow, leading to the discovery of the sword-shaped
+amulet of [chardalyn](https://frostmaiden.assimilate.dev/assorted-lore/). Each
+of these amulets has an inner radiance that provides warmth and aid, protecting
+its wearer against the cold while guiding them safely back to civilization.
+
+The members display their amulets proudly and are all well-versed in esoteric
+knowledge of infernals, to whom they claim to speak.
+
+## Levistus
+
+Levistus is an arch-devil imprisoned in ice on the Stygian plane. He has a
+blood fued with Asmodeus.
 
 ## Yzma's contract
 
