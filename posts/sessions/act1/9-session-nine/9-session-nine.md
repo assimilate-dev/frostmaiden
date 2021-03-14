@@ -8,7 +8,7 @@ at Caer Konig. In addition to the monetary rewards, each person will receive
 initiate rank in the Knight of the Black Sword as well as the magical means and
 political access that comes with.
 
-![Kadroth](images/kadroth.png)
+![Kadroth](https://frostmaiden.assimilate.dev/content/images/2021/03/kadroth.png)
 
 The other knights who have joined you for dinner are friendly and this is the
 first time in months you've seen fresh, colorful food.
@@ -27,7 +27,7 @@ Everyone has different priorities after dinner.
 - Thoval and Titus take a "brisk walk" intending to find Allasar
 - Yzma heads to Kadroth's quarters to talk business
 
-![Caer Dineval](images/caer_dineval.jpg)
+![Caer Dineval](https://frostmaiden.assimilate.dev/content/images/2021/03/caer_dineval.jpg)
 
 ### Thoval and Titus
 
@@ -129,7 +129,7 @@ with stories of his past, goatball, and Oyaminartok and his Goliath brothers.
 Spells fire, hands slip on icy rungs, and everyone unceremoniously makes their
 way down into the cistern where
 
-![Cistern beneath the castle](images/cistern.jpg)
+![Cistern beneath the castle](https://frostmaiden.assimilate.dev/content/images/2021/03/cistern.jpg)
 
 Titus gets a running start and makes an inspired leap into the boat to knock
 Kadroth into the freezing water. Titus freezes the water around Kadroth and
@@ -165,7 +165,7 @@ is ice and it is brutally cold. Yzma asks a few questions and makes a few
 comments. She receives a firebolt in response and plays dead assuming there is
 no way to win.
 
-![Avarice of The Arcane Brotherhood](images/avarice.jpg)
+![Avarice of The Arcane Brotherhood](https://frostmaiden.assimilate.dev/content/images/2021/03/avarice.jpg)
 
 Titus and Thoval head back to the landing and Thoval goes in first to the icy
 room attached to the landing. They see a large pillar of ice wrapped in chains

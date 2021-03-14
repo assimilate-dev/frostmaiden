@@ -26,17 +26,17 @@ are particularly informative. Will you share what you have learned?
 
 Right now you are holed up in Kadroth's quarter with all known entrances and
 exits barricaded. The blizzard is still raging outside. Two of you, Titus and
-Thoval, are conscious. Thoval you have the head of Kadroth and the head of
+Thoval, are conscious. Thoval you have the head of the Tiefling and the head of
 Sephek in your backpack. Your key witness against Sephek, Garrett Velryn, is
 back in Caer Konig. The others are bound and unconscious. Fastbatch you are
 wearing Torvus' breastplate which comes with the implicit promise to root out
 the same Duergar that concern the knights. With you are five others:
 
--
--
--
--
--
+- Lanthis Alderdusk, Speaker Crannoc's assistant
+- Elprekt Norbrav, an old butler
+- Mylbara Norbrav, the speaker's translator
+- Tam Sharf, a mute housemaid
+- Allasar
 
 Outside of the room you assume there are somewhere between 25 and 30 hostile
 cultists who are also regrouping.
@@ -69,5 +69,4 @@ and each other is not a recipe for success.
 
 ## Titus needs a drink
 
-Titus you are starting to shake. It's been a while since you've had a drink.
-Roll a d8 for me please.
+Titus you are starting to shake. Half of all foodstuffs have been spoiled.
