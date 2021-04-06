@@ -33,7 +33,7 @@ An overview of the current story threads
 - Lonelywood is where Sephek was living and working
 - The speaker of Good Mead was killed by a giant and Naerth is trying to throw the election
 - Two wizards were arrested in Easthaven
-- The key witness is in Caer Konig along with a waiting Torvusand the Duergar threat
+- The key witness is in Caer Konig along with a waiting Torvus and the Duergar threat
 
 ## Easthaven
 
@@ -46,4 +46,4 @@ At the east end of The East Way is Easthaven. A boomtown where pickpocketing is 
 
 The group travels to the All Faith's Shrine where they meet a lithe elf. The elf offers food, water, and shelter in exchange for a hard day's work. The party simple pays him for his services to remove the curse from FAstbatch and Jim. The priest explains that chardalyn is prized for it's ability to capture magic but lately he has seen the stone absorb demonic magic; likely from a nearby influence. The amulets are left at the shrine for safe keeping. THe priest asks the characters to retrieve the magical cauldron that was seized by a hag who lives in a cave nearby along the lakeside.
 
-
+After leaving the shrine the party approaches the town hall where a crowd is gathering in anticipation of the execution tomorrow night. They are approached by a woman who is a head taller than everyone else.
