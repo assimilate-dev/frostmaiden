@@ -69,4 +69,4 @@ and each other is not a recipe for success.
 
 ## Titus needs a drink
 
-Titus you are starting to shake. Half of all foodstuffs have been spoiled.
+Titus you are starting to shake.
